@@ -1,6 +1,8 @@
 # Robot Trading en Python
 #aluralatam #aluraChallengeRobotTrading
-El proyecto permite tomar decisiones de compra y venta de Bitcoin en tiempo real.
+## El proyecto permite tomar decisiones de compra y venta de Bitcoin en tiempo real.
+
+### Proyecto paso a paso:
 
 - Configuración del ambiente: Se utilizó el entorno virtual de Google Colaboratory, como editor Python. Importar algunas librerías de Python que son esenciales para este proyecto, como Pandas, Numpy, Matplotlib, etc.
 
