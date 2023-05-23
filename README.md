@@ -4,7 +4,7 @@
 
 ### Proyecto paso a paso:
 
-- Configuración del ambiente: Se utilizó el entorno virtual de Google Colaboratory, como editor Python. Importar algunas librerías de Python que son esenciales para este proyecto, como Pandas, Numpy, Matplotlib, etc.
+- Configuración del ambiente: Se utilizó el entorno virtual de Google Colaboratory, como editor Python. Importó algunas librerías de Python que son esenciales para este proyecto, como Pandas, Numpy, Matplotlib, etc.
 
 - Obtención de datos: Se accedió a una API que proporciono datos históricos de precios de Bitcoin en formato JSON. Realizar Web Scraping en un site de noticias para obtener el precio actual y algunos indicadores de tendencias del Bitcoin.
 
@@ -15,3 +15,5 @@
 - Visualización: Utilizó la librería Matplotlib para crear un gráfico donde se muestre la evolución del precio del Bitcoin durante el periodo seleccionado, y una línea recta que pase sobre el precio medio. Por último, muestra un mensaje en el gráfico que indique “Vender”, “Comprar” o “” según sea la decisión del algoritmo.
 
 - Automatización: Finalmente se automatizó el proceso. Utilizó la librería de Python "time" para ejecutar el algoritmo de decisión cada 5 minutos y actualizar el gráfico.
+
+![Badge Challenge Robot Trading](https://github.com/siladev/robot-trading-python/blob/main/Badge-Challenge-Robot-Trading.png)
